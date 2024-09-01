@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "single-spa-svelte": "^2.0.0",
-    "svelte": "^3.23.0"
+    "svelte": "^4.2.19"
   }
 }
