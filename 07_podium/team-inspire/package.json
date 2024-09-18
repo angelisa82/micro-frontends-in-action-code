@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@podium/podlet": "^4.3.2",
-    "express": "^4.17.1",
+    "@podium/podlet": "^5.1.14",
+    "express": "^4.20.0",
     "morgan": "^1.9.1"
   }
 }
