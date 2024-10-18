@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "single-spa-vue": "^1.8.2",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-router": "^3.3.2"
   }
 }
